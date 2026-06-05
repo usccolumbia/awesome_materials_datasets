@@ -15,7 +15,7 @@ Downlaod links
 | Database            | Approx. size | Link(s)                                                                                                                                                    |
 | ------------------- | -----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ICSD   |      335,032 (2026.2) | [[commercial https://icsd.products.fiz-karlsruhe.de/](https://icsd.products.fiz-karlsruhe.de/))                                                                                                      |
-| LeMaterial          |           5M | [Hugging Face: LeMat-Bulk](https://huggingface.co/datasets/LeMaterial/LeMat-Bulk); [LeMaterial datasets docs](https://lematerial.org/docs/about/datasets/) |
+| LeMaterial          |           5.8M | [Hugging Face: LeMat-Bulk](https://huggingface.co/datasets/LeMaterial/LeMat-Bulk); [LeMaterial datasets docs](https://lematerial.org/docs/about/datasets/) |
 | Materials Project   |      200,000 | [materialsproject.org](https://materialsproject.org/)                                                                                                      |
 | OQMD                |           1M | [oqmd.org](https://oqmd.org/)                                                                                                                              |
 | Alexandria database |         4.6M | [alexandria.icams.rub.de](https://alexandria.icams.rub.de/)                                                                                                |
